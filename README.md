@@ -5,4 +5,4 @@ Public repository for materials used in LOWESS article
 
 Article link: https://towardsdatascience.com/lowess-regression-in-python-how-to-discover-clear-patterns-in-your-data-f26e523d7a35
 
-https://www.kaggle.com/quantbruce/real-estate-price-prediction?select=Real+estate.csv
+Data Source and Licence: https://www.kaggle.com/quantbruce/real-estate-price-prediction?select=Real+estate.csv
